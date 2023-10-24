@@ -1,0 +1,77 @@
+{
+  "editor.fontSize": 18,
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "emmet.excludeLanguages": ["markdown"],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "postcss": "css"
+  },
+  "editor.linkedEditing": true,
+  "todohighlight.include": ["**/*.js", "**/*.jsx", "**/*.ts", "**/*.tsx", "**/*.html", "**/*.php", "**/*.css", "**/*.scss"],
+  "todohighlight.keywords": [],
+  "todo-tree.tree.showScanModeButton": false,
+  "todohighlight.isCaseSensitive": false,
+  "eslint.alwaysShowStatus": true,
+  "html.format.contentUnformatted": "",
+  "eslint.run": "onSave",
+  "python.languageServer": "Pylance",
+  "[json]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDragAndDrop": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.printWidth": 130,
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "prettier.useTabs": true,
+  "prettier.endOfLine": "crlf",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "redhat.telemetry.enabled": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "gitlens.currentLine.enabled": false,
+  "gitlens.codeLens.enabled": false,
+  "jest.autoRun": {},
+  "jest.jestCommandLine": "yarn test --",
+  "jest.enableCodeLens": false,
+  "colorize.languages": [
+    "css",
+    "sass",
+    "scss",
+    "less",
+    "postcss",
+    "sss",
+    "stylus",
+    "xml",
+    "svg",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "npm.keybindingsChangedWarningShown": true,
+  "boot-java.rewrite.reconcile": true,
+  "jest.rootPath": "src/main/frontend/src",
+  "vsicons.dontShowNewVersionMessage": true,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "react-native.packager.port": 19000,
+  "window.zoomLevel": -1,
+  "terminal.integrated.defaultProfile.windows": "Git Bash"
+}
